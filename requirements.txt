@@ -1,0 +1,44 @@
+# Core Deep Learning Framework
+
+torch
+torchvision
+torchaudio
+
+
+
+# Math and Data Handling
+
+numpy
+pandas
+
+
+
+# Tokenization and Datasets
+
+tiktoken 
+sentencepiece
+transformers 
+datasets
+
+
+
+# Training Utilities and Progress Tracking
+
+tqdm
+wandb
+tensorboard
+
+
+
+# Tensor Operations and Visualization
+
+einops
+matplotlib
+
+
+
+# Development Environment (Optional but recommended)
+
+jupyter
+
+ipykernel
